@@ -32,7 +32,7 @@ int main(){                                                                     
 }
 
 void gamestart(){
-    char response[4];                                                                                                           // LIMITING TO 4 JUST INCASE THE USER IS AN IDIOT AND TYPES PL WRONG OR SOMETHING
+    char response[4];                                                                                                           // LIMITING TO 4 JUST INCASE THE USER TYPES PL WRONG OR SOMETHING
 
     cellroom();
 
